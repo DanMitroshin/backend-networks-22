@@ -1,0 +1,3 @@
+EMAIL = 1
+VK = 2
+APPLE_ID = 3

@@ -1,0 +1,10 @@
+Django==3.0.6
+django-cors-headers==3.2.0
+djangorestframework==3.11.1
+drf-yasg
+funcy
+gunicorn==20.0.4
+psycopg2-binary
+pymorphy2==0.8
+requests
+exponent_server_sdk

@@ -1,0 +1,2 @@
+PERSONAL = "personal"
+RANDOM = "random"

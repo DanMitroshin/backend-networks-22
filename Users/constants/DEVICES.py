@@ -1,0 +1,3 @@
+ANDROID = 1
+APPLE = 2
+WEB = 3

@@ -1,0 +1,3 @@
+UNKNOWN = 0
+WOMAN = 1
+MAN = 2

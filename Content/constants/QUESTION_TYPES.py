@@ -1,0 +1,6 @@
+ONE_ANSWER = 'one'
+MANY_ANSWERS = 'many'
+MANUALLY = 'self'
+CHRONOLOGICAL = 'chron'
+RELATIONS = 'relat'
+REASONS_AND_ARGUMENTS = 'arg'
